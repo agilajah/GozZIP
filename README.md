@@ -17,6 +17,7 @@ Commit Pertama [Deadline : 11 Februari 2016]
   4. Kerjakan perubahan kode pada PC Anda, jika semua kode sudah **lolos compile**, Anda diperbolehkan untuk melakukan pull request.
   5. Jika kode yang Anda kerjakan tidak lolos compile, jangan sekali-kali melakukan pull request.
   6. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
+  7. Baca konvensi menulis kode yang jelas di [sini](http://introcs.cs.princeton.edu/java/11style/)
 
 Commit Kedua [Deadline : 18 Februari 2016]
 
