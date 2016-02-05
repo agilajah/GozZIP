@@ -7,6 +7,7 @@ A freeware file archiver and compressor for windows.
 # Tugas besar 1 Strategi Algoritma.
 
 **Aturan upload data**
+##BACA CATATAN PENTING
 
 Commit Pertama [Deadline : 11 Februari 2016]
 
@@ -33,6 +34,8 @@ Commit Ketiga [DL : 21 Februari 2016]
   3. Jika pada tanggal ini semua pekerjaan sudah selesai, diharapkan untuk membuat laporan.
 
 **CATATAN PENTING** :
-1. Jangan melakukan commit jika program gagal compile, ini akan menyusahkan kontributor yang lain. jika ada bug atau kesalahan yang mungkin berguna untuk diketahui semua kontributor seperti bug dan sebagainya, ditulis ya di bagian issue https://github.com/agilajah/GozZIP/issues
-2. Pastikan selalu mengamati keberjalanan project dengan melihat https://github.com/agilajah/GozZIP/issues
-3. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
+  1. Jangan melakukan commit jika program gagal compile, ini akan menyusahkan kontributor yang lain. jika ada bug atau     
+     kesalahan yang mungkin berguna untuk diketahui semua kontributor seperti bug dan sebagainya, ditulis ya di bagian issue        https://github.com/agilajah/GozZIP/issues
+  2. Pastikan selalu mengamati keberjalanan project dengan melihat https://github.com/agilajah/GozZIP/issues
+  3. Jangan lupa **selalu update** repository yang ada pada komputer Anda. Baca cara syncing repository :   
+     [klik](https://help.github.com/articles/syncing-a-fork/)
