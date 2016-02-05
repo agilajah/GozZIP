@@ -2,14 +2,13 @@
 
 Repository ini dibuat untuk mempermudah pekerjaan kita. Pemakaiannya cukup sederhana, cukup lakukan dua langkah berikut :
 
-# 1. Fork
-    
-    Untuk mengetahui lebih banyak tentang fork, silahkan klik link berikut : [klik](https://help.github.com/articles/working-with-forks/)
+#1. Fork
+Untuk mengetahui lebih banyak tentang fork, silahkan klik link berikut : [klik](https://help.github.com/articles/working-with-forks/)
      
 # 2. Mengajukan perubahan
-
-    Setelah melakukan fork, Anda dapat mendownload file zip yang berisi source code dan segala hal yang ada di repository ini termasuk file ini. Jika Anda melakukan beberapa perubahan terhadap source code
-    ataupun terhadap file-file lainnya, maka Anda harus mengajukan perubahan dengan menggunakan pull request, klik link berikut untuk mengetahui lebih banyak tentang pull request [klik](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)
-    **CATATAN PENTING** : Jangan sekali-kali mengubah file secara langsung di repository utama. Setiap perubahan harus melalui pull request.
+Setelah melakukan fork, Anda dapat mendownload file zip yang berisi source code dan segala hal yang ada di repository ini   termasuk file ini. Jika Anda melakukan beberapa perubahan terhadap source code
+ataupun terhadap file-file lainnya, maka Anda harus mengajukan perubahan dengan menggunakan pull request, klik link berikut untuk mengetahui lebih banyak tentang pull request [klik](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)
     
-Dimohon kerjasamanya untuk membaca semua hal yang berkaitan dengan caara bekerja di repository ini. 
+**CATATAN PENTING** : Jangan sekali-kali mengubah file secara langsung di repository utama. Setiap perubahan harus melalui pull request.
+    
+Dimohon kerjasamanya untuk membaca semua hal yang berkaitan dengan cara bekerja di repository ini. Agar keberjalanan project ini lancar. 
