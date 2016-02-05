@@ -1,5 +1,3 @@
-Why | How | What
-
 # GozZIP
 A freeware file archiver and compressor for windows.
 
@@ -17,22 +15,24 @@ Commit Pertama [Deadline : 11 Februari 2016
   3. Setiap perubahan yang dilakukan, tidak boleh langsung mengubah master. Harus melalui pull request.
   4. Kerjakan perubahan kode pada PC Anda, jika semua kode sudah **lolos compile**, Anda diperbolehkan untuk melakukan pull request.
   5. Jika kode yang Anda kerjakan tidak lolos compile, jangan sekali-kali melakukan pull request.
-  6. Jangan lupa selalu update repository yang ada pada komputer Anda.
+  6. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
 
 Commit Kedua [Deadline : 18 Februari 2016]
 
   1. Kerjakan bagian masing-masing, sesuaikan dengan struktur data dan variabel yang sudah disepakati.
   2. Pastikan penulisan kode sesuai dengan konvensi yang telah disepakati.
-  3. Kode yang dipull request harus lolos compile
+  3. Kode yang dipull request harus **lolos compile**.
   4. Usahakan tepat waktu.
+  5. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
 
 Commit Ketiga [DL : 21 Februari 2016]
 
   1. Ini adalah tahap terakhir, tahap penyempurnaan.
-  2. Lanjutkan pekerjaan yang sudah ada.
-  3. Jika pada tanggal ini semua pekerjaan sudah selesai, diharapkan untuk membuat laporan.
+  2. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
+  3. Lanjutkan pekerjaan yang sudah ada.
+  4. Jika pada tanggal ini semua pekerjaan sudah selesai, diharapkan untuk membuat laporan.
 
 Catatan Penting :
-1. Jangan melakukan commit jika program gagal compile, ini akan menyusahkan kontributor yang lain
-Jika ada bug atau kesalahan yang mungkin berguna untuk diketahui semua kontributor seperti bug dan sebagainya, ditulis ya di bagian issue https://github.com/agilajah/GozZIP/issues
+1. Jangan melakukan commit jika program gagal compile, ini akan menyusahkan kontributor yang lain. jika ada bug atau kesalahan yang mungkin berguna untuk diketahui semua kontributor seperti bug dan sebagainya, ditulis ya di bagian issue https://github.com/agilajah/GozZIP/issues
 2. Pastikan selalu mengamati keberjalanan project dengan melihat https://github.com/agilajah/GozZIP/issues
+3. Jangan lupa selalu update repository yang ada pada komputer Anda. Baca cara syncing repository : [klik](https://help.github.com/articles/syncing-a-fork/)
