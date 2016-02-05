@@ -12,7 +12,7 @@ A freeware file archiver and compressor for windows.
 Commit Pertama [Deadline : 11 Februari 2016]
 
   1. Lakukan fork terhadap repository ini dengan cara klik tombol 'fork' pada kanan atas jendela Anda.
-  2. Pelajari beberapa istilah dan cara kerja version control (github) ini di link berikut : [klik](https://github.com/agilajah/GozZIP/blob/master/HowTos.md)
+  2. **PENTING**: Pelajari beberapa istilah dan cara kerja version control (github) ini di link berikut : [klik](https://github.com/agilajah/GozZIP/blob/master/HowTos.md)
   3. Setiap perubahan yang dilakukan, tidak boleh langsung mengubah master. Harus melalui pull request.
   4. Kerjakan perubahan kode pada PC Anda, jika semua kode sudah **lolos compile**, Anda diperbolehkan untuk melakukan pull request.
   5. Jika kode yang Anda kerjakan tidak lolos compile, jangan sekali-kali melakukan pull request.
