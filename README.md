@@ -35,8 +35,9 @@ Commit Ketiga [DL : 21 Februari 2016]
 
 **CATATAN PENTING** :
   1. Jangan melakukan commit jika program gagal compile, ini akan menyusahkan kontributor yang lain. jika ada bug atau     
-     kesalahan yang mungkin berguna untuk diketahui semua kontributor seperti bug dan sebagainya, ditulis ya di bagian issue        https://github.com/agilajah/GozZIP/issues
+     kesalahan yang mungkin berguna untuk diketahui semua kontributor, ditulis ya di bagian issue        https://github.com/agilajah/GozZIP/issues
   2. Pastikan selalu mengamati keberjalanan project dengan melihat https://github.com/agilajah/GozZIP/issues, apakah ada isu yang harus diselesaikan atau sedang tidak ada.
   3. Jangan lupa **selalu update** repository yang ada pada komputer Anda. Baca cara syncing repository :   
      [klik](https://help.github.com/articles/syncing-a-fork/)
   4.Pelajari beberapa istilah dan cara kerja version control (github) ini di link berikut : [klik](https://github.com/agilajah/GozZIP/blob/master/HowTos.md)
+  5. Baca kembali spesifikasi program yang diminta di sini : [klik](http://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2015-2016/Tugas-Besar-1-IF2211-Strategi-Algoritma.doc)
