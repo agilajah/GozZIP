@@ -8,8 +8,7 @@ Repository ini dibuat untuk mempermudah pekerjaan kita. Pemakaiannya cukup seder
 Untuk mengetahui lebih banyak tentang fork, silahkan klik link berikut : [klik](https://help.github.com/articles/working-with-forks/)
      
 ### 2. Mengajukan perubahan
-Setelah melakukan fork, Anda dapat mendownload file zip yang berisi source code dan segala hal yang ada di repository ini   termasuk file ini. Jika Anda melakukan beberapa perubahan terhadap source code
-ataupun terhadap file-file lainnya, maka Anda harus mengajukan perubahan dengan menggunakan pull request, klik link berikut untuk mengetahui lebih banyak tentang pull request [klik](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)
+Setelah melakukan fork, Diharapkan, Anda melakukan perubahan pada fork-repository yang telah anda buat di bagian 1. Copy saja semua file dalam folder tersebut ke tempat lain di PC Anda, lalu lakukan perubahan. Setelah Anda selesai melakukan perubahan pada code, copy kembali file-file terbaru tersebut ke directory di mana repository lokal Anda disimpan pada PC Anda, kemudian Anda dapat mengajukan perubahan tersebut dengan melakukan pull request, klik link berikut untuk mengetahui lebih banyak tentang pull request [klik](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)
     
 **CATATAN PENTING** : Jangan sekali-kali mengubah file secara langsung di repository utama. Setiap perubahan harus melalui pull request.
     
