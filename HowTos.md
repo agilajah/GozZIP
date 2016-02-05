@@ -1,6 +1,6 @@
 # Cara Bekerja di Repository ini
 
-Sebelum mulai bekerja, Anda harus menginstall git pada perangkat Anda (komputer, laptop). Tolong baca dan ikuti langkah-langkah yang ada pada [link](https://help.github.com/articles/set-up-git/) berikut.
+Sebelum mulai bekerja, Anda harus menginstall git pada perangkat Anda (komputer, laptop). Tolong baca dan ikuti langkah-langkah yang ada pada [link](https://help.github.com/articles/set-up-git/) berikut. (skip bagian creating repository)
 
 Repository ini dibuat untuk mempermudah pekerjaan kita. Pemakaiannya cukup sederhana, cukup lakukan dua langkah berikut :
 
