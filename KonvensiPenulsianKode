@@ -1,0 +1,13 @@
+**TAMBAHAN KONVENSI**
+
+Selain konvensi menulis kode yang telah ditulis di [sini](http://introcs.cs.princeton.edu/java/11style/), ada beberapa konvensi tambahan :
+
+1. Fungsi tulis dengan huruf besar seluruhnya, jika ada spasi gunakan garis bawah
+    
+    void CONTOH_FUNGSI(int x){
+      ...
+    }
+
+    int CONTOH_FUNGSI(int x){
+      ...
+    }
