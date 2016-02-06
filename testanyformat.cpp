@@ -1,3 +1,33 @@
+/*----------------------------------------------------------------
+ *  Author:        Febi Agil Ifdillah
+ *  Written:       6/2/2016
+ *  Last updated:  6/2/2016
+ *
+ *  Compilation:   g++ -o testanyformat testanygformat.cpp
+ *  Execution:     ./testanyformat YourFile
+ *	
+ *	Example	:	  
+ *
+ *  % ./testanyformat test1.mp4
+ *	Tuliskan nama file : 
+ *	test1.mp4  
+ *	ini nama file ke tiga sebelum pemanggilan tulis : 
+ *	1.txt
+ *  Information for test1.mp4
+ *	---------------------
+ *	File Size : 13375380
+ *	Number of Links : 1
+ *	File inode : 1495552
+ *	File Permission : 	-rw-rw-r--
+ *
+ *	The file is not a symbolic link
+ *	ini mode setelah diubah
+ *	Ini nama file ke 3 : 1.txt
+ *	Nama file adalah : test1.mp4
+ *
+ *----------------------------------------------------------------*/
+
+
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
