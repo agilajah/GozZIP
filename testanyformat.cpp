@@ -2,7 +2,9 @@
  *  Author:        Febi Agil Ifdillah
  *  Written:       6/2/2016
  *  Last updated:  6/2/2016
- *  Description	:  File ini adalah ujicoba pembacaan beragam file. Program ini akan menghasilkan file baru yang bernama 1 + ekstensi, misalnya ekstensi = '.mp3'. 
+ *  Description	:  File ini adalah ujicoba pembacaan beragam file. Program ini akan menghasilkan file baru yang bernama 
+ *		   1 + ekstensi, misalnya ekstensi = '.mp4'. Jika file yang Anda input adalah test1.mp4, maka file yang dihasilkan
+ *		   bernama 1.mp4.
  *	   	   Program hanya bisa berjalan di linux karena menggunakan sys/sat dan sys.types.
  *
  *  Compilation:   g++ -o testanyformat testanyformat.cpp
