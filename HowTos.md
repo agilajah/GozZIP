@@ -2,6 +2,8 @@
 
 **Sebelum mulai bekerja**, Anda harus menginstall git pada perangkat Anda (komputer, laptop). Tolong baca dan ikuti langkah-langkah yang ada pada [link](https://help.github.com/articles/set-up-git/) berikut. (skip bagian creating repository)
 
+Anda juga disarankan untuk membaca tutorial berikut : [tutorial-klik](http://readwrite.com/2013/10/02/github-for-beginners-part-2)
+
 Repository ini dibuat untuk mempermudah pekerjaan kita. Pemakaiannya cukup sederhana, cukup lakukan dua langkah berikut :
 
 ###1. Fork
