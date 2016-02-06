@@ -10,6 +10,13 @@
  *  Compilation:   g++ -o testanyformat testanyformat.cpp
  *  Execution:     ./testanyformat YourFile
  *	
+    * Character    What it means
+    *    1               "d" if a directory, "-" if a file
+    *    2               "r" if file is readable to user, "-" if not
+    *    3               "w" if file is writable to user, "-" if not
+    *    4               "x" if file is executable to user, "-" if not
+    *    5-7             same as 2-4, with reference to group
+    *    8-10            same as 2-4, with reference to everyone on eniac
  *	Example	:	  
  *
  *  % ./testanyformat test1.mp4
@@ -106,7 +113,7 @@ int main(int argc, char **argv) {
     cout << "File inode : " << fileStat.st_ino << endl;
 
     cout << "File Permission : \t";
-
+    
     printf( (S_ISDIR(fileStat.st_mode)) ? "d" : "-");
     printf( (fileStat.st_mode & S_IRUSR) ? "r" : "-");
     printf( (fileStat.st_mode & S_IWUSR) ? "w" : "-");
@@ -138,10 +145,5 @@ int main(int argc, char **argv) {
 	cout << " Ini nama file ke 3 : " << filename3 << endl;
 	TulisKeFile();
 	cout << "Nama file adalah : " << filename << endl;
-	//////////////////////Bagian ini untuk mengubah file permission
-
-    
-	
-	
 	return 0;
 }
